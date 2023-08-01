@@ -48,13 +48,6 @@ void loop() {
   
     digitalWrite(LED,LOW);
     }
-  //Serial.print(", Y = "); Serial.print(accelerometer_y);
- // Serial.print(", Z = "); Serial.println(accelerometer_z);
-
- // Serial.print("Gyroscope: ");
-  //Serial.print("X = "); Serial.print(-gyroscope_x);
- // Serial.print(", Y = "); Serial.print(gyroscope_y);
-  //Serial.print(", Z = "); Serial.println(gyroscope_z);
 
   delay(1000);  // Delay for 1 second
 }
